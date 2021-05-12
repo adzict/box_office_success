@@ -39,3 +39,7 @@ To take a look at my code, see https://github.com/adzict/box_office_success_dete
 ## Conclusion and Future recommendations
 
 We recommend including data on oscar winning directors, actors / actresses, and movies, as well as demographic information of users, and movie studios, in the dataset in order to obtain more detailed analysis.
+
+## Acknowledgements
+
+Thanks to https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620 for an inspiration regarding the VAR values, as well as exploring the profit margin, genres, and the general structure. 
