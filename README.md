@@ -13,9 +13,9 @@ In order to analyze data and find best recommendations for the studio, I formed 
 * Are duration and content rating relevant to profit?
 * What can we learn from number of votes, and critic reviews in regards to genres and profit?
 
-For a detailed analysis of the dataset please refer to my Medium Blog Post: [Box Office Success Determinants!](https://adzic-tanja.medium.com/box-office-success-determinants-c1450fea99ea)
+For a detailed analysis of the dataset please refer to my Medium Blog Post: [Box Office Success Determinants](https://adzic-tanja.medium.com/box-office-success-determinants-c1450fea99ea)
 
-To take a look at my code, click [here!](https://github.com/adzict/box_office_success_determinants/blob/main/box-office-success-determinants.ipynb)
+To take a look at my code, click [here](https://github.com/adzict/box_office_success_determinants/blob/main/box-office-success-determinants.ipynb)
 
 ## Most important findings
 
@@ -42,4 +42,4 @@ We recommend including data on oscar winning directors, actors / actresses, and 
 
 ## Acknowledgements
 
-Thanks to [jeremy-lee93!](https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620) for an inspiration regarding the VAR values, as well as exploring the profit margin, genres, and the general structure. 
+Thanks to [jeremy-lee93](https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620) for an inspiration regarding the VAR values, as well as exploring the profit margin, genres, and the general structure. 
