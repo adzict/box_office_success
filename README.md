@@ -17,11 +17,18 @@ In order to analyze data and find best recommendations for the studio, I formed 
 
 You can find dataset I used for this project on Kaggle: [movies.csv](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) or download it from the repository.
 
+## 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Most important findings
 
 * What is the correlation between budget and profit? Which budget ranges should be considered for making a Box Office success?
   * Strategy recommendation: The optimal budget value for making a successfull movie should not be less than $40 MM, and on average we recommend it to be somewhere around $75 MM, as on average these budgets result with a good profit margin above 0.6.(This recommendation was made based on a profit margin greater than 0.6.) There is evidence that higher budget movies risk a smaller profit margin, as shown in the aforementioned plot, therefore we cannot recommend very large budgets to be a certain indicator of a Box Office success.
+
+Visualizing relationship between budget and profit:
+
+![budget-profit-linear](https://github.com/adzict/box_office_determinants/blob/main/assets/budget%20profit%20linear.png)
 
 * Do actors/actresses and directors play a role in a movie's success?
   * Strategy recommendation: With great certainty we can recommend that the studio takes into account the VAR score of an actor or an actress, and even more the VAR score of the person who will direct the movie:
@@ -34,12 +41,20 @@ You can find dataset I used for this project on Kaggle: [movies.csv](https://www
 * How do genres play in with profit and profit margin?
   * Strategy recommendation: We recommend investing in the Animation genre, in the above mentioned budget ranger of $40MM to $75MM, as well as Family and Adventure genres, as they show a desirable ROI, and are not as expensive. They can be on the lower end of the budget recommendations.
 
+Visualizing genres
+
+![genres-count](https://github.com/adzict/box_office_determinants/blob/main/assets/genre%20movie%20count.png)
+
 * Are duration and content rating relevant to profit?
   * Strategy recommendation: Focus on PG-13 movies, as the most common profitable genres (Animation, Adventure, Family) are in this group.
 
 ## Conclusion and Future recommendations
 
 We recommend including data on oscar winning directors, actors / actresses, and movies, as well as demographic information of users, and movie studios, in the dataset in order to obtain more detailed analysis.
+
+Top 30 most profitable movies and their budgets
+
+![top-30-profit](https://github.com/adzict/box_office_determinants/blob/main/assets/profit%20budget%20top%2030%20profitable.png)
 
 ## Blog post
 
