@@ -15,7 +15,7 @@ In order to analyze data and find best recommendations for the studio, I formed 
 
 ## Dataset
 
-You can find dataset I used for this project on Kaggle: [movies.csv] (https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) or download it from the repository.
+You can find dataset I used for this project on Kaggle: [movies.csv](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) or download it from the repository.
 
 
 ## Most important findings
@@ -43,7 +43,7 @@ We recommend including data on oscar winning directors, actors / actresses, and 
 
 ## Blog post
 
-You can read more about this project on my Medium blog [here] (https://adzic-tanja.medium.com/)
+You can read more about this project on my Medium blog [here](https://adzic-tanja.medium.com/)
 
 ## Acknowledgements
 
@@ -51,6 +51,4 @@ Thanks to [jeremy-lee93](https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-
 
 ## Contact
 
-Find me on [LinkedIn] (https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/), [Twitter] (https://twitter.com/adzic_tanja) or [adzictanja.com] (https://adzict.github.io/).
-
-For a detailed analysis of the dataset please refer to my Medium Blog Post: [Box Office Success Determinants](https://adzic-tanja.medium.com/box-office-success-determinants-c1450fea99ea)
+Find me on [LinkedIn](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/), [Twitter](https://twitter.com/adzic_tanja) or [adzictanja.com](https://adzict.github.io/).
