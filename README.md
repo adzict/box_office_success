@@ -41,6 +41,10 @@ You can find dataset I used for this project on Kaggle: [movies.csv] (https://ww
 
 We recommend including data on oscar winning directors, actors / actresses, and movies, as well as demographic information of users, and movie studios, in the dataset in order to obtain more detailed analysis.
 
+## Blog post
+
+You can read more about this project on my Medium blog [here] (https://adzic-tanja.medium.com/)
+
 ## Acknowledgements
 
 Thanks to [jeremy-lee93](https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620) for an inspiration regarding the VAR values, as well as exploring the profit margin, genres, and the general structure. 
