@@ -2,7 +2,7 @@
 
 As part of my mentorship, I was tasked to imagine being a Data Scientist for a Top Movie Studio. After a series of box office flops, the producers of the said studio are starting to question their strategy and need some direction. I suggest a new approach - using data to determine what factors go into making a successful film. Luckily, I have a dataset of over 5000 films to mine for insights. My producers ask me to spend some time analyzing the data and present a report detailing your findings, along with recommendations on how to revamp the studio’s strategy.
 
-In order to analyze data and find best recommendations for the studio, I formed couple of questions I found to be worth answering as the studio can with use that information with certainty to implement changes. The questions asked were:
+In order to analyze data and find best recommendations for the studio, I formed a couple of questions I found to be worth answering as the studio can with use that information with certainty to implement changes. The questions asked were:
 
 * What is the correlation between budget and profit? Which budget ranges should be considered for making a Box Office success?
 * Do actors/actresses and directors play a role in a movie's success?
@@ -13,9 +13,10 @@ In order to analyze data and find best recommendations for the studio, I formed 
 * Are duration and content rating relevant to profit?
 * What can we learn from number of votes, and critic reviews in regards to genres and profit?
 
-For a detailed analysis of the dataset please refer to my Medium Blog Post: [Box Office Success Determinants](https://adzic-tanja.medium.com/box-office-success-determinants-c1450fea99ea)
+## Dataset
 
-To take a look at my code, click [here](https://github.com/adzict/box_office_success_determinants/blob/main/box-office-success-determinants.ipynb)
+You can find dataset I used for this project on Kaggle: [movies.csv] (https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) or download it from the repository.
+
 
 ## Most important findings
 
@@ -43,3 +44,9 @@ We recommend including data on oscar winning directors, actors / actresses, and 
 ## Acknowledgements
 
 Thanks to [jeremy-lee93](https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620) for an inspiration regarding the VAR values, as well as exploring the profit margin, genres, and the general structure. 
+
+## Contact
+
+Find me on [LinkedIn] (https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/), [Twitter] (https://twitter.com/adzic_tanja) or [adzictanja.com] (https://adzict.github.io/).
+
+For a detailed analysis of the dataset please refer to my Medium Blog Post: [Box Office Success Determinants](https://adzic-tanja.medium.com/box-office-success-determinants-c1450fea99ea)
