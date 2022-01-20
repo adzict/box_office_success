@@ -121,7 +121,7 @@ The dataset for this analysis was downloaded from the Kaggle website: [movie_dat
    </ul>
 
 ### Presentation
-Link to the presentation: [presentation.pdf]()
+Link to the presentation: [presentation.pdf](https://github.com/adzict/box_office_determinants/blob/main/Box%20Office%20Success%20Presentation.pdf)
 
 ## Most Important Findings
 <a name="Findings"></a>
